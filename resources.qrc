@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>UI/close.png</file>
+        <file>UI/maximize.png</file>
+        <file>UI/minimize.png</file>
+        <file>UI/UnivIcon.jpg</file>
+        <file>UI/this.png</file>
+    </qresource>
+</RCC>
